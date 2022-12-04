@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,500;1,200&display=swap');
+
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
@@ -10,6 +12,15 @@ textarea {
   color: #000000;
   border-left: 1px solid black;
   padding: 10px;
+}
+
+.welcomeHead {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url(/Users/force/bootcamp/Challenges/05-Challenge-12_12_22/Work-Day-Scheduler/assets/images/header.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: 'Work Sans', sans-serif;
+  text-shadow: 2px 2px 8px white;
 }
 
 .description {
