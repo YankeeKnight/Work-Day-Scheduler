@@ -15,7 +15,7 @@ textarea {
 }
 
 .welcomeHead {
-  background-image: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url(/Users/force/bootcamp/Challenges/05-Challenge-12_12_22/Work-Day-Scheduler/assets/images/header.jpg);
+  background-image: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url(../images/header.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
