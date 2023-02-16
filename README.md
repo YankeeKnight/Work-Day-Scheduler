@@ -1,5 +1,5 @@
 # Work-Day-Scheduler
-Third Party APIs - Challenge 05 - Due 12_12
+Third Party APIs
 
 ## Description
 A simple calendar app for scheduling a work day. App uses: HTML, JavaScript, CSS, BootStrap and jQuery.
